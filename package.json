@@ -1,0 +1,18 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "Cypress assignment",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "test": "npm run cypress:open"
+  },
+  "keywords": [
+    "Cypress"
+  ],
+  "author": "Bhargavi",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "9.7.0"
+  }
+}
